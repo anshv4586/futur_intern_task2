@@ -1,3 +1,3 @@
-📊 Social Media Addiction Analysis | Excel Project
+#📊 Social Media Addiction Analysis | Excel Project
 
-This project explores the growing issue of social media addiction, analyzing its effects on productivity, mental health, and user behavior. The study was conducted using Microsoft Excel, focusing on data collection, cleaning, and visualization to derive meaningful insights.
+##This project explores the growing issue of social media addiction, analyzing its effects on productivity, mental health, and user behavior. The study was conducted using Microsoft Excel, focusing on data collection, cleaning, and visualization to derive meaningful insights.
